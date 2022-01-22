@@ -5,7 +5,15 @@
   "version": "1.2",
   "publisher": "aseprite",
   "contributes": {
-    "ditheringMatrices": [
+    "ditheringMatrices": [ 
+	{"id": "0CAT_A", "name": "0CAT_A", "path": "./matrices/0CAT_A.bmp"},
+	{"id": "0stars_A", "name": "0stars_A", "path": "./matrices/0stars_A.bmp"},
+	{"id": "0-8x4-each7px-32lvls", "name": "0-8x4-each7px-32lvls", "path": "./matrices/0-8x4-each7px-32lvls.bmp"},
+	{"id": "a-toad-16x16", "name": "a-toad-16x16", "path": "./matrices/a-toad-16x16.bmp"},
+	{"id": "a-spiral-16x16", "name": "a-spiral-16x16", "path": "./matrices/a-spiral-16x16.bmp"},
+		{"id": "mario-16x16", "name": "mario-16x16", "path": "./matrices/mario-16x16.bmp"},
+		{"id": "escher-16x12-fish-bird", "name": "escher-16x12-fish-bird", "path": "./matrices/escher-16x12-fish-bird.bmp"},
+		{"id": "escher-32x24-fish-bird", "name": "escher-32x24-fish-bird", "path": "./matrices/escher-32x24-fish-bird.bmp"},
 		{"id": "dot-matrix-5x5", "name": "dot-matrix-5x5", "path": "./matrices/dot-matrix-5x5.bmp"},
 		{"id": "dot-matrix-6x6-a", "name": "dot-matrix-6x6-a", "path": "./matrices/dot-matrix-6x6-a.bmp"},
 		{"id": "dot-matrix-6x6-b", "name": "dot-matrix-6x6-b", "path": "./matrices/dot-matrix-6x6-b.bmp"},
