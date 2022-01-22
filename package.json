@@ -7,7 +7,7 @@
   "contributes": {
     "ditheringMatrices": [
 		{"id": "diag2x2", "name": "diag2x2", "path": "./diag2x2.bmp"},
-		{"id": "diag3x3.bpm", "name": "diag3x3.bpm", "path": "./diag3x3.bpm.bmp"},
+		{"id": "diag3x3", "name": "diag3x3", "path": "./diag3x3.bmp"},
 		{"id": "diag4x4", "name": "diag4x4", "path": "./diag4x4.bmp"},
 		{"id": "diag4x8", "name": "diag4x8", "path": "./diag4x8.bmp"},
 		{"id": "diag4x8_points", "name": "diag4x8_points", "path": "./diag4x8_points.bmp"},
@@ -19,7 +19,7 @@
 		{"id": "diag8x8_07lvls", "name": "diag8x8_07lvls", "path": "./diag8x8_07lvls.bmp"},
 		{"id": "diag8x8_09lvls", "name": "diag8x8_09lvls", "path": "./diag8x8_09lvls.bmp"},
 		{"id": "diagflip2x2", "name": "diagflip2x2", "path": "./diagflip2x2.bmp"},
-		{"id": "diagflip3x3.bpm", "name": "diagflip3x3.bpm", "path": "./diagflip3x3.bpm.bmp"},
+		{"id": "diagflip3x3", "name": "diagflip3x3", "path": "./diagflip3x3.bmp"},
 		{"id": "diagflip4x4", "name": "diagflip4x4", "path": "./diagflip4x4.bmp"},
 		{"id": "diagflip4x8", "name": "diagflip4x8", "path": "./diagflip4x8.bmp"},
 		{"id": "diagflip4x8_points", "name": "diagflip4x8_points", "path": "./diagflip4x8_points.bmp"},
