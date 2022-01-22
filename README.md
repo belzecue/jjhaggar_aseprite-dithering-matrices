@@ -6,6 +6,7 @@ This is an Aseprite [extension](https://github.com/aseprite/aseprite/tree/master
 ### How to install ###
 
 First of all, download the latest version of this extension. You can do that by clicking on _**Download Repository**_ from [here](https://bitbucket.org/jjhaggar/aseprite-dithering-matrices/src/). That will let you download a .zip file of the complete repository (which will also work as an Aseprite extension).
+
 ![imgs/howto_download.png](imgs/howto_download.png)
 
 After that, you have two options:
